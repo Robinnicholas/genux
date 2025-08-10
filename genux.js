@@ -8,7 +8,7 @@
 
 (function() {
     // --- Configuration ---
-    const GEMINI_API_KEY = "<Replace your Gemini API key>";
+    const GEMINI_API_KEY = "AIzaSyBrNjwlC0j9IJsDt7gevLu6C4Wc-b8WIWE";
     const STORAGE_KEY = 'GenUX-GeneratedFeatures';
 
     /**
@@ -995,5 +995,6 @@
     } else {
         initializeGenUX();
     }
+
 
 })();
